@@ -1,0 +1,39 @@
+Pokémon: 14
+1 Alolan Exeggutor ex SSP 248
+3 Regidrago VSTAR SIT 136
+3 Teal Mask Ogerpon ex TWM 25
+1 Latias ex SSP 220
+1 Giratina VSTAR LOR 131
+1 Fezandipiti ex SFA 38
+3 Regidrago V SIT 135
+1 Cleffa OBF 80
+1 Hoothoot SCR 114
+1 Noctowl SCR 115
+1 Kyurem SFA 47
+1 Dragapult ex TWM 130
+1 Squawkabilly ex PAL 169
+1 Hisuian Goodra VSTAR LOR 136
+
+Trainer: 14
+1 Ultra Ball SVI 196 PH
+1 PokéStop PGO 68
+4 Energy Switch SVI 173
+1 Prime Catcher TEF 157
+4 Nest Ball SVI 181
+3 Iono PAL 185
+1 Superior Energy Retrieval PAL 189
+2 Super Rod PAL 188
+2 Boss's Orders BRS 132
+3 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Canceling Cologne ASR 136
+4 Professor's Research SVI 190
+3 Earthen Vessel PAR 163
+
+Energy: 4
+1 Basic {R} Energy SVE 10
+1 Basic {R} Energy SVALT 132
+1 Basic {G} Energy SVALT 131
+6 Basic {G} Energy SVE 9
+
+Total Cards: 60

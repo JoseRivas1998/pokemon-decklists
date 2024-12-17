@@ -1,0 +1,32 @@
+Pokémon: 13
+1 Arcanine ex SVI 32
+2 Pidgey MEW 16
+1 Mimikyu PAL 97 PH
+4 Charmander PAF 7
+4 Charmeleon PAF 8
+1 Duskull SFA 18
+1 Growlithe SVI 31
+2 Pidgeotto MEW 17
+2 Pidgeot ex OBF 164
+1 Dusclops SFA 19
+1 Manaphy BRS 41
+4 Charizard ex OBF 125
+1 Dusknoir SFA 20
+
+Trainer: 10
+2 Nest Ball SVI 181
+3 Boss's Orders PAL 172
+2 Iono PAL 185
+3 Arven SVI 166
+2 Super Rod PAL 188
+1 Grand Tree SCR 136
+2 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+2 Switch SVI 194
+4 Rare Candy SVI 191
+
+Energy: 2
+11 Basic {R} Energy SVE 10
+1 Basic {R} Energy SVALT 132
+
+Total Cards: 60

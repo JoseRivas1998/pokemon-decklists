@@ -1,0 +1,36 @@
+Pokémon: 11
+2 Magnemite SSP 58 PH
+1 Electivire SCR 47
+2 Pikachu ex SSP 247
+2 Miraidon SSP 69
+2 Magneton SSP 59
+1 Electabuzz SCR 46 PH
+2 Tapu Koko SSP 65 PH
+1 Joltik SCR 50
+1 Miraidon SSP 69 PH
+2 Magneton PR-SV 159
+2 Magnemite SSP 58
+
+Trainer: 11
+1 Rika PAR 172 PH
+1 Youngster SVI 198
+1 Clemont's Quick Wit SSP 243
+2 Tera Orb SSP 189 PH
+3 Clemont's Quick Wit SSP 167
+1 Artazon PAL 171
+2 Colress's Tenacity SFA 57
+1 Ciphermaniac's Codebreaking TEF 145
+1 Surfer SSP 235
+2 Earthen Vessel PAR 163
+1 Gravity Mountain SSP 177
+
+Energy: 7
+14 Basic {L} Energy SVE 12
+1 Basic {G} Energy SVALT 131
+1 Basic {L} Energy SVALT 134
+4 Basic {G} Energy SVE 9
+1 Basic {M} Energy SVALT 138
+1 Enriching Energy SSP 191
+4 Basic {M} Energy SVE 16
+
+Total Cards: 60

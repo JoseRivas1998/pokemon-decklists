@@ -1,0 +1,35 @@
+Pokémon: 7
+4 Xatu PAR 72
+1 Mimikyu PAL 97 PH
+4 Mewtwo ex PAR 58
+2 Flittle SSP 94 PH
+1 Espathra ex PAF 6
+1 Manaphy BRS 41
+4 Natu PAR 71
+
+Trainer: 19
+1 Lisia's Appeal SSP 179 PH
+1 Area Zero Underdepths SCR 131
+2 Buddy-Buddy Poffin TEF 144
+1 Deluxe Bomb SCR 134
+2 Tera Orb SSP 189 PH
+1 Lisia's Appeal SSP 234
+1 Surfer SSP 235
+1 Drayton SSP 174
+1 Cyrano SSP 230
+1 Drasna SSP 231
+1 Drayton SSP 232
+2 Colress's Tenacity SFA 57
+2 Super Rod PAL 188
+1 Nemona SVI 180
+2 Nest Ball SVI 181
+2 Capturing Aroma SIT 153
+1 Surfer SSP 187
+2 Drasna SSP 173 PH
+1 Technical Machine: Evolution PAR 178 PH
+
+Energy: 2
+16 Basic {P} Energy SVE 13
+1 Basic {P} Energy SVALT 135
+
+Total Cards: 60
