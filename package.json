@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "start": "vite-node parser.ts"
+    },
+    "type": "module",
+    "dependencies": {
+        "typescript": "^5.7.2",
+        "vite-node": "^2.1.8"
+    },
+    "devDependencies": {
+        "@types/node": "^20"
+    }
+}
