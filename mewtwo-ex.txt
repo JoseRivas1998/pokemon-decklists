@@ -9,10 +9,12 @@ Pokémon: 7
 
 Trainer: 19
 1 Lisia's Appeal SSP 179 PH
+1 Earthen Vessel PAR 163
 1 Area Zero Underdepths SCR 131
 2 Buddy-Buddy Poffin TEF 144
 1 Deluxe Bomb SCR 134
 2 Tera Orb SSP 189 PH
+2 Iono PAL 185
 1 Lisia's Appeal SSP 234
 1 Surfer SSP 235
 1 Drayton SSP 174
@@ -21,11 +23,9 @@ Trainer: 19
 1 Drayton SSP 232
 2 Colress's Tenacity SFA 57
 2 Super Rod PAL 188
-1 Nemona SVI 180
 2 Nest Ball SVI 181
 2 Capturing Aroma SIT 153
 1 Surfer SSP 187
-2 Drasna SSP 173 PH
 1 Technical Machine: Evolution PAR 178 PH
 
 Energy: 2
