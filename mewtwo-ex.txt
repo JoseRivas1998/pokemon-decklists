@@ -9,6 +9,7 @@ Pokémon: 7
 
 Trainer: 19
 1 Lisia's Appeal SSP 179 PH
+1 Jacq SVI 236
 1 Earthen Vessel PAR 163
 1 Area Zero Underdepths SCR 131
 2 Buddy-Buddy Poffin TEF 144
@@ -18,7 +19,6 @@ Trainer: 19
 1 Lisia's Appeal SSP 234
 1 Surfer SSP 235
 1 Drayton SSP 174
-1 Cyrano SSP 230
 1 Drasna SSP 231
 1 Drayton SSP 232
 2 Colress's Tenacity SFA 57
