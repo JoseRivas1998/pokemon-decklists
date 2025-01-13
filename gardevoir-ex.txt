@@ -1,30 +1,39 @@
-Pokémon: 9
-1 Mimikyu PAL 97 PH
-3 Drifloon SVI 89
-1 Lumineon V BRS 40
-4 Kirlia SIT 68
-1 Mew ex MEW 151
-4 Ralts SIT 67
+Pokémon: 13
 1 Radiant Greninja ASR 46
-1 Manaphy BRS 41
-3 Gardevoir ex SVI 86
+1 Klefki SVI 96
+1 Munkidori TWM 95
+1 Scream Tail PAR 86
+1 Drifloon SVI 89
+2 Gardevoir ex SVI 86
+4 Kirlia SIT 68
+4 Ralts SIT 67
+1 Lumineon V BRS 40
+1 Mew ex MEW 151
+1 Mimikyu PAL 97 PH
+1 Cresselia LOR 74
+1 Flutter Mane TEF 78
 
-Trainer: 12
-1 Unfair Stamp TWM 165
-4 Nest Ball SVI 181
-1 Technical Machine: Evolution PAR 178 PH
-3 Professor's Research SVI 189
-2 Artazon PAL 171
-3 Bravery Charm PAL 173
-2 Boss's Orders PAL 172
-3 Iono PAL 185
-2 Arven SVI 166
+Trainer: 15
+1 Technical Machine: Evolution PAR 178
+4 Bravery Charm PAL 173
+1 Hisuian Heavy Ball ASR 146
+2 Counter Catcher CIN 91
 1 Super Rod PAL 188
-4 Ultra Ball SVI 196
+2 Earthen Vessel PAR 163
+4 Nest Ball SVI 181
+2 Ultra Ball SVI 196
+2 Artazon PAL 171
+2 Boss's Orders PAL 172
+1 Professor Turo's Scenario PAR 171
+2 Arven SVI 166
+3 Iono PAL 185
+1 Unfair Stamp TWM 165
 3 Rare Candy SVI 191
 
-Energy: 2
+Energy: 4
+6 Basic {P} Energy SVE 13
 1 Basic {P} Energy SVALT 135
-11 Basic {P} Energy SVE 13
+1 Basic {D} Energy SVALT 137
+1 Basic {D} Energy SVE 15
 
 Total Cards: 60
