@@ -1,0 +1,38 @@
+Pokémon: 10
+1 Lumineon V BRS 40
+1 Fezandipiti ex SFA 38
+4 Drakloak PRE 72
+1 Budew PRE 4
+4 Dreepy PRE 71
+2 Dusclops SFA 19
+2 Dragapult ex TWM 130
+1 Dragapult ex PRE 73
+2 Dusknoir SFA 20
+2 Duskull PRE 35
+
+Trainer: 19
+2 Counter Catcher PAR 160
+1 Tera Orb SSP 189
+1 Forest Seal Stone SIT 156
+1 Jacq SVI 175
+2 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+3 Nest Ball SVI 181
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+3 Iono PAL 185
+1 Professor Turo's Scenario PAR 171
+4 Arven SVI 166
+1 Super Rod PAL 188
+4 Buddy-Buddy Poffin TEF 144
+2 Ultra Ball SVI 196
+1 Switch SVI 194
+1 Sparkling Crystal SCR 142
+2 Rare Candy SVI 191
+1 Earthen Vessel PAR 163
+
+Energy: 2
+3 Basic {P} Energy Energy 13
+3 Basic {R} Energy Energy 10
+
+Total Cards: 60

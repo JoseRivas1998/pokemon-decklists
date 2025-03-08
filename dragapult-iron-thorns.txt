@@ -1,0 +1,41 @@
+Pokémon: 7
+1 Toedscool PAR 16
+2 Iron Thorns ex TWM 77
+2 Iron Thorns ex PRE 32
+4 Drakloak PRE 72
+4 Dreepy PRE 71
+1 Toedscruel PAR 17
+2 Dragapult ex TWM 200
+
+Trainer: 20
+1 Future Booster Energy Capsule PAR 164
+2 Crispin PRE 105 PH
+1 Tera Orb SSP 189
+1 Precious Trolley SSP 185
+1 Counter Catcher CIN 91
+4 Pokégear 3.0 SVI 186
+1 Night Stretcher SFA 61
+1 Rescue Board TEF 159
+2 Boss's Orders PAL 172
+1 Jamming Tower TWM 153
+1 Iono PAL 185
+4 Arven SVI 166
+2 Technical Machine: Evolution PAR 178
+1 Super Rod PAL 188
+1 Earthen Vessel PRE 106
+2 Crispin PRE 105
+1 Buddy-Buddy Poffin TEF 144
+1 Ultra Ball SVI 196
+2 Switch SVI 194
+3 Roto-Stick PRE 127
+
+Energy: 7
+1 Basic {P} Energy SVE 13 PH
+1 Basic {R} Energy SVALT 132
+1 Basic {L} Energy SVALT 134
+1 Basic {P} Energy SVALT 135
+2 Basic {P} Energy SVE 13
+2 Basic {L} Energy SVE 4 PH
+3 Basic {R} Energy SVE 10 PH
+
+Total Cards: 60

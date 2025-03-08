@@ -1,0 +1,30 @@
+Pokémon: 6
+4 Great Tusk PRE 55
+1 Kirlia SIT 68
+1 Pidgeot V LOR 137
+1 Gallade ASR 62
+1 Ralts ASR 60
+1 Flutter Mane PRE 43
+
+Trainer: 16
+2 Counter Catcher PAR 160
+1 Forest Seal Stone SIT 156
+2 Counter Catcher CIN 91
+4 Pokégear 3.0 SVI 186
+4 Pal Pad SVI 182
+4 Nest Ball SVI 181
+1 Calamitous Wasteland PAL 175
+2 Artazon PAL 171
+2 Super Rod PAL 188
+4 Explorer's Guidance PRE 107
+3 Gravity Gemstone SCR 137 PH
+1 Neutralization Zone SFA 60
+4 Professor Sada's Vitality PRE 120
+1 Canceling Cologne ASR 136
+2 Roto-Stick PRE 127
+4 Earthen Vessel PAR 163
+
+Energy: 1
+10 Basic {F} Energy Energy 14
+
+Total Cards: 60

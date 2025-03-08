@@ -1,0 +1,38 @@
+Pokémon: 5
+4 Gholdengo ex PRE 164
+1 Fezandipiti ex SFA 38
+1 Munkidori PRE 44
+1 Radiant Greninja ASR 46
+4 Gimmighoul SSP 97 PH
+
+Trainer: 18
+1 Energy Search Pro SSP 176
+2 Iono PAL 254
+1 Ciphermaniac's Codebreaking PRE 104 PH
+2 Pokégear 3.0 SVI 186
+3 Nest Ball SVI 181
+2 Cycling Road MEW 157
+1 Artazon PAL 171
+2 Boss's Orders PAL 172
+2 Night Stretcher SSP 251
+3 Arven SVI 166
+1 Technical Machine: Evolution PAR 178
+4 Superior Energy Retrieval PAL 189
+4 Buddy-Buddy Poffin PRE 101
+1 Earthen Vessel PRE 106
+2 Ciphermaniac's Codebreaking PRE 104
+2 Ultra Ball SVI 196
+2 Switch SVI 194
+2 Professor Turo's Scenario PRE 121
+
+Energy: 8
+3 Basic {M} Energy Energy 16
+2 Basic {D} Energy Energy 15
+1 Basic {F} Energy Energy 14
+1 Basic {P} Energy Energy 13
+1 Basic {L} Energy Energy 12
+2 Basic {W} Energy Energy 11
+1 Basic {R} Energy Energy 10
+1 Basic {G} Energy Energy 1
+
+Total Cards: 60

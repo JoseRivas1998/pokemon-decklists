@@ -1,0 +1,37 @@
+Pokémon: 11
+4 Slowking SCR 58 PH
+2 Xatu PAR 72
+1 Tatsugiri TWM 131
+4 Slowpoke PRE 18 PH
+1 Regigigas PRE 86
+2 Kyurem SFA 47
+2 Natu PAR 71
+1 Budew PRE 4
+1 Conkeldurr TWM 105 PH
+1 Annihilape SSP 100
+1 Mimikyu PAL 97
+
+Trainer: 14
+4 Ultra Ball SVI 196
+4 Buddy-Buddy Poffin PRE 101
+2 Ciphermaniac's Codebreaking PRE 104
+1 Ciphermaniac's Codebreaking PRE 104 PH
+1 Jacq SVI 175
+3 Iono PAL 185
+2 Night Stretcher SSP 251
+1 Lana's Aid TWM 155
+1 Professor Turo's Scenario PAR 257
+2 Night Stretcher SFA 61
+2 Colress's Tenacity SFA 57
+1 Max Rod PRE 116
+4 Academy at Night SFA 54 PH
+1 Ciphermaniac's Codebreaking PRE 104 PH
+
+Energy: 5
+2 Jet Energy SSP 252
+5 Basic {P} Energy SVE 13
+1 Basic {P} Energy SVALT 135
+1 Basic {P} Energy SVE 13 PH
+2 Jet Energy PAL 190
+
+Total Cards: 60

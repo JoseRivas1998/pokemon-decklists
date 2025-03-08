@@ -1,31 +1,36 @@
-Pokémon: 7
+Pokémon: 9
 3 Frigibax PAL 57
 3 Chien-Pao ex PAL 61
 1 Lumineon V BRS 40
 1 Fezandipiti ex SFA 38
-3 Baxcalibur PAL 60
+1 Budew PRE 4 PH
+2 Baxcalibur PAL 60
+1 Radiant Greninja ASR 46
 1 Manaphy BRS 41
 2 Arctibax PAL 59
 
-Trainer: 15
-1 Unfair Stamp TWM 165
-1 Jacq SVI 175
+Trainer: 18
+1 Forest Seal Stone SIT 156
+1 Max Rod PRE 116
 2 Energy Retrieval SVI 171
-3 Irida ASR 147
+4 Irida ASR 147
+1 Night Stretcher SFA 61
 1 Pal Pad SVI 182
-1 Nemona SVI 180
 3 Nest Ball SVI 181
-2 Night Stretcher SFA 61
+1 Boss's Orders PAL 172
+1 Professor Turo's Scenario PAR 171
+1 Arven SVI 166
 4 Superior Energy Retrieval PAL 189
 2 Super Rod PAL 188
 2 Buddy-Buddy Poffin PRE 101
-4 Earthen Vessel PRE 106
-2 Ciphermaniac's Codebreaking TEF 145
+3 Earthen Vessel PRE 106
+1 Ciphermaniac's Codebreaking TEF 145
 2 Ultra Ball SVI 196
+1 Switch SVI 194
 3 Rare Candy SVI 191
 
 Energy: 2
 1 Basic {W} Energy SVALT 133
-12 Basic {W} Energy SVE 11
+10 Basic {W} Energy SVE 11
 
 Total Cards: 60
